@@ -1,0 +1,401 @@
+tconst,category,titleType,primaryTitle,isAdult,startYear,runtimeMinutes,genres,primaryName,averageRating,numVotes,title,region
+tt0000591,actor,movie,The Prodigal Son,0,1907,90.0,Drama,Georges Wague,5.7,28,L'enfant prodigue,FR
+tt0000591,actor,movie,The Prodigal Son,0,1907,90.0,Drama,Henri Gouget,5.7,28,L'enfant prodigue,FR
+tt0000591,actress,movie,The Prodigal Son,0,1907,90.0,Drama,Christiane Mandelys,5.7,28,L'enfant prodigue,FR
+tt0000591,actress,movie,The Prodigal Son,0,1907,90.0,Drama,Gilberte Sergy,5.7,28,L'enfant prodigue,FR
+tt0001285,actor,movie,The Life of Moses,0,1909,50.0,"Biography,Drama,Family",Pat Hartigan,5.5,63,La Vie de Moïse,FR
+tt0001285,actress,movie,The Life of Moses,0,1909,50.0,"Biography,Drama,Family",Julia Arthur,5.5,63,La Vie de Moïse,FR
+tt0001285,actor,movie,The Life of Moses,0,1909,50.0,"Biography,Drama,Family",William Humphrey,5.5,63,La Vie de Moïse,FR
+tt0001285,actor,movie,The Life of Moses,0,1909,50.0,"Biography,Drama,Family",Charles Kent,5.5,63,La Vie de Moïse,FR
+tt0001285,actress,movie,The Life of Moses,0,1909,50.0,"Biography,Drama,Family",Edith Storey,5.5,63,La Vie de Moïse,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Robert Dinesen,6.5,43,Les Quatre Diables,FR
+tt0001614,actress,movie,The Four Devils,0,1911,60.0,Drama,Edith Buemann,6.5,43,Les Quatre Diables,FR
+tt0001614,actress,movie,The Four Devils,0,1911,60.0,Drama,Tilley Christiansen,6.5,43,Les Quatre Diables,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Carl Rosenbaum,6.5,43,Les Quatre Diables,FR
+tt0001614,actress,movie,The Four Devils,0,1911,60.0,Drama,Agis Winding,6.5,43,Les Quatre Diables,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Einar Rosenbaum,6.5,43,Les Quatre Diables,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Alfred Lind,6.5,43,Les Quatre Diables,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Carré,6.5,43,Les Quatre Diables,FR
+tt0001614,actor,movie,The Four Devils,0,1911,60.0,Drama,Aage Hertel,6.5,43,Les Quatre Diables,FR
+tt0001614,actress,movie,The Four Devils,0,1911,60.0,Drama,Lili Lani,6.5,43,Les Quatre Diables,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Henry Krauss,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Henri Étiévant,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actress,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Maria Ventura,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actress,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Mistinguett,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actress,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Maria Fromet,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Gabriel de Gravone,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Émile Mylo,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actress,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Delphine Renot,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Jean Angelo,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0001790,actor,movie,"Les Misérables, Part 1: Jean Valjean",0,1913,60.0,Drama,Anthonin,6.0,53,Les misérables - Époque 1: Jean Valjean,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Salvatore Papa,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Arturo Pirovano,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Giuseppe de Liguoro,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Giuseppe de Liguoro,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Giuseppe de Liguoro,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Pier Delle Vigne,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Augusto Milla,7.0,3651,L'Enfer,FR
+tt0002130,actor,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Attilio Motta,7.0,3651,L'Enfer,FR
+tt0002130,actress,movie,Dante's Inferno,0,1911,71.0,"Adventure,Drama,Fantasy",Emilise Beretta,7.0,3651,L'Enfer,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",R. Henderson Bland,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Percy Dyer,5.8,659,De la crèche à la croix,FR
+tt0002199,actress,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Gene Gauntier,5.8,659,De la crèche à la croix,FR
+tt0002199,actress,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Alice Hollister,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Samuel Morgan,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",James D. Ainsley,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Robert G. Vignola,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",George Kellog,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",J.P. McGowan,5.8,659,De la crèche à la croix,FR
+tt0002199,actor,movie,From the Manger to the Cross,0,1912,71.0,"Biography,Drama",Sidney Baber,5.8,659,De la crèche à la croix,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Pola Negri,6.6,1036,La Du Barry,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Pola Negri,6.6,1036,Madame du Barry,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Pola Negri,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Emil Jannings,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Emil Jannings,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Emil Jannings,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Harry Liedtke,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Harry Liedtke,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Harry Liedtke,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Eduard von Winterstein,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Eduard von Winterstein,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Eduard von Winterstein,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Reinhold Schünzel,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Reinhold Schünzel,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Reinhold Schünzel,6.6,1036,Passion,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Else Berna,6.6,1036,La Du Barry,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Else Berna,6.6,1036,Madame du Barry,FR
+tt0002423,actress,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Else Berna,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Fred Immler,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Fred Immler,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Fred Immler,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Gustav Czimeg,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Gustav Czimeg,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Gustav Czimeg,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Karl Platen,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Karl Platen,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Karl Platen,6.6,1036,Passion,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Bernhard Goetzke,6.6,1036,La Du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Bernhard Goetzke,6.6,1036,Madame du Barry,FR
+tt0002423,actor,movie,Passion,0,1919,113.0,"Biography,Drama,Romance",Bernhard Goetzke,6.6,1036,Passion,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Amleto Novelli,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Gustavo Serena,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Carlo Cattaneo,6.1,467,Quo Vadis?,FR
+tt0002445,actress,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Amelia Cattaneo,6.1,467,Quo Vadis?,FR
+tt0002445,actress,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Lea Giunchi,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Bruto Castellani,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Augusto Mastripietri,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Cesare Moltini,6.1,467,Quo Vadis?,FR
+tt0002445,actress,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Olga Brandini,6.1,467,Quo Vadis?,FR
+tt0002445,actor,movie,Quo Vadis?,0,1913,120.0,"Drama,History",Ignazio Lupi,6.1,467,Quo Vadis?,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Robert Gemp,5.7,331,Richard III,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Frederick Warde,5.7,331,Richard III,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Albert Gardner,5.7,331,Richard III,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,James Keane,5.7,331,Richard III,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,George Moss,5.7,331,Richard III,FR
+tt0002461,actor,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Howard Stuart,5.7,331,Richard III,FR
+tt0002461,actress,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Virginia Rankin,5.7,331,Richard III,FR
+tt0002461,actress,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Violet Stuart,5.7,331,Richard III,FR
+tt0002461,actress,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Carey Lee,5.7,331,Richard III,FR
+tt0002461,actress,movie,The Life and Death of King Richard III,0,1912,55.0,Drama,Carlotta De Felice,5.7,331,Richard III,FR
+tt0002514,actress,movie,Saved in Mid-Air,0,1912,60.0,Drama,Lili Beck,4.9,18,Le masque noir,FR
+tt0002514,actor,movie,Saved in Mid-Air,0,1912,60.0,Drama,Victor Sjöström,4.9,18,Le masque noir,FR
+tt0002514,actor,movie,Saved in Mid-Air,0,1912,60.0,Drama,John Ekman,4.9,18,Le masque noir,FR
+tt0002514,actor,movie,Saved in Mid-Air,0,1912,60.0,Drama,Gunnel Holzhausen,4.9,18,Le masque noir,FR
+tt0002514,actor,movie,Saved in Mid-Air,0,1912,60.0,Drama,Gunnar Norberg,4.9,18,Le masque noir,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Alexandre Arquillière,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Charles Krauss,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",André Liabel,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actress,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Josette Andriot,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actress,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Olga Demidoff,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Paul Guidé,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Émile Keppens,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actress,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Maryse Dauvray,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Camille Bardou,6.0,51,Zigomar contre Nick Carter,FR
+tt0002588,actor,movie,Zigomar contre Nick Carter,0,1912,48.0,"Crime,Thriller",Léon Durac,6.0,51,Zigomar contre Nick Carter,FR
+tt0002605,actress,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Kathlyn Williams,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Charles Clary,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Horace B. Carpenter,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Lafe McKee,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Tom Santschi,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actress,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Goldie Colwell,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Franklyn Hall,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actress,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Effie Sackville,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Roy Watson,5.6,45,Les aventures de Kathlyn,FR
+tt0002605,actor,movie,The Adventures of Kathlyn,0,1913,300.0,Adventure,Charles Courtwright,5.6,45,Les aventures de Kathlyn,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Olaf Fønss,6.5,500,Atlantis,FR
+tt0002646,actress,movie,Atlantis,0,1913,121.0,Drama,Ida Orloff,6.5,500,Atlantis,FR
+tt0002646,actress,movie,Atlantis,0,1913,121.0,Drama,Ebba Thomsen,6.5,500,Atlantis,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Carl Lauritzen,6.5,500,Atlantis,FR
+tt0002646,actress,movie,Atlantis,0,1913,121.0,Drama,Alma Hinding,6.5,500,Atlantis,FR
+tt0002646,actress,movie,Atlantis,0,1913,121.0,Drama,Marie Dinesen,6.5,500,Atlantis,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Frederik Jacobsen,6.5,500,Atlantis,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Charles Unthan,6.5,500,Atlantis,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Torben Meyer,6.5,500,Atlantis,FR
+tt0002646,actor,movie,Atlantis,0,1913,121.0,Drama,Cajus Bruun,6.5,500,Atlantis,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Willard Mack,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Charles Edler,6.6,41,Le Désastre,FR
+tt0002669,actress,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Ann Little,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Joe King,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Burton L. King,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Herschel Mayall,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",Walter Edwards,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",J. Barney Sherry,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",George Fisher,6.6,41,Le Désastre,FR
+tt0002669,actor,movie,The Battle of Gettysburg,0,1913,48.0,"Drama,War",J. Frank Burke,6.6,41,Le Désastre,FR
+tt0002801,actor,movie,The Black Diamond,0,1913,50.0,\N,Albert Dieudonné,5.5,29,Le diamant noir,FR
+tt0002801,actress,movie,The Black Diamond,0,1913,50.0,\N,Blanche Derval,5.5,29,Le diamant noir,FR
+tt0002801,actor,movie,The Black Diamond,0,1913,50.0,\N,Fernand Crommelynck,5.5,29,Le diamant noir,FR
+tt0002801,actor,movie,The Black Diamond,0,1913,50.0,\N,Delaunay,5.5,29,Le diamant noir,FR
+tt0002801,actress,movie,The Black Diamond,0,1913,50.0,\N,Fernande Dépernay,5.5,29,Le diamant noir,FR
+tt0002801,actor,movie,The Black Diamond,0,1913,50.0,\N,Hébert,5.5,29,Le diamant noir,FR
+tt0002801,actress,movie,The Black Diamond,0,1913,50.0,\N,Hélène Lefèbvre,5.5,29,Le diamant noir,FR
+tt0002801,actress,movie,The Black Diamond,0,1913,50.0,\N,Cécile May,5.5,29,Le diamant noir,FR
+tt0002801,actress,movie,The Black Diamond,0,1913,50.0,\N,Mimir,5.5,29,Le diamant noir,FR
+tt0002801,actor,movie,The Black Diamond,0,1913,50.0,\N,Richard,5.5,29,Le diamant noir,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",René Navarre,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Edmund Breon,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Edmund Breon,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Edmund Breon,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Georges Melchior,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Georges Melchior,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Georges Melchior,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Renée Carl,6.9,2560,The Phantom Crook,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Renée Carl,6.9,2560,Fantômas,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Renée Carl,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Jane Faber,6.9,2560,The Phantom Crook,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Jane Faber,6.9,2560,Fantômas,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Jane Faber,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Volbert,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Volbert,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Volbert,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Naudier,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Naudier,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Naudier,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Maillard,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Maillard,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Maillard,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Yvette Andréyor,6.9,2560,The Phantom Crook,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Yvette Andréyor,6.9,2560,Fantômas,FR
+tt0002844,actress,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",Yvette Andréyor,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Luguet,6.9,2560,The Phantom Crook,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Luguet,6.9,2560,Fantômas,FR
+tt0002844,actor,movie,Fantômas: In the Shadow of the Guillotine,0,1913,54.0,"Crime,Drama",André Luguet,6.9,2560,Fantômas - À l'ombre de la guillotine,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Mévisto,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Jean Jacquinet,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Henry Krauss,6.8,181,Germinal,FR
+tt0002898,actress,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Sylvie,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Paul Escoffier,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Dharsay,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Léon Bernard,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Albert Bras,6.8,181,Germinal,FR
+tt0002898,actor,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Paul Capellani,6.8,181,Germinal,FR
+tt0002898,actress,movie,"Germinal; or, The Toll of Labor",0,1913,150.0,Drama,Jeanne Cheirel,6.8,181,Germinal,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,Egil Eide,5.6,47,Une querelle de frontière,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,Richard Lund,5.6,47,Une querelle de frontière,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,John Ekman,5.6,47,Une querelle de frontière,FR
+tt0002917,actress,movie,Brother Against Brother,0,1913,51.0,Drama,Jenny Tschernichin-Larsson,5.6,47,Une querelle de frontière,FR
+tt0002917,actress,movie,Brother Against Brother,0,1913,51.0,Drama,Lilly Jacobson,5.6,47,Une querelle de frontière,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,Carl Borin,5.6,47,Une querelle de frontière,FR
+tt0002917,actress,movie,Brother Against Brother,0,1913,51.0,Drama,Stina Berg,5.6,47,Une querelle de frontière,FR
+tt0002917,actress,movie,Brother Against Brother,0,1913,51.0,Drama,Edith Erastoff,5.6,47,Une querelle de frontière,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,Nils Elffors,5.6,47,Une querelle de frontière,FR
+tt0002917,actor,movie,Brother Against Brother,0,1913,51.0,Drama,Georg Grönroos,5.6,47,Une querelle de frontière,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Paul Davidson,4.6,74,L'île des bienheureux,FR
+tt0003015,actress,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Erika De Planque,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Wilhelm Diegelmann,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Wilhelm Diegelmann,4.6,74,L'île des bienheureux,FR
+tt0003015,actress,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Mary Dietrich,4.6,74,L'île des bienheureux,FR
+tt0003015,actress,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Gertrud Hackelberg,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Ernst Hofmann,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Arthur Kathane,4.6,74,L'île des bienheureux,FR
+tt0003015,actress,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Leopoldine Konstantin,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Friedrich Kühne,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Friedrich Kühne,4.6,74,L'île des bienheureux,FR
+tt0003015,actor,movie,Die Insel der Seligen,0,1913,49.0,"Comedy,Fantasy",Werner Lotz,4.6,74,L'île des bienheureux,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",René Navarre,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",René Navarre,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",René Navarre,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Edmund Breon,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Georges Melchior,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actress,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Renée Carl,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actress,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Yvette Andréyor,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actor,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Laurent Morléas,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actress,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Jane Faber,6.9,1729,Juve contre Fantômas,FR
+tt0003037,actress,movie,Fantomas: The Man in Black,0,1913,61.0,"Crime,Drama",Marthe Vinot,6.9,1729,Juve contre Fantômas,FR
+tt0003159,actress,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Maria Ventura,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actress,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Maria Fromet,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actress,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Mistinguett,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Henry Krauss,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Henri Étiévant,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Émile Mylo,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actress,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Eugénie Nau,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Gabriel de Gravone,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Jean Angelo,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003159,actor,movie,"Les Misérables, Part 2: Fantine",0,1913,300.0,Drama,Léon Belières,5.9,53,Les misérables - Époque 2: Fantine,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",René Navarre,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",René Navarre,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",René Navarre,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",René Navarre,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Edmund Breon,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Edmund Breon,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Georges Melchior,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Georges Melchior,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",André Luguet,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",André Luguet,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Luitz-Morat,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Luitz-Morat,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Naudier,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Naudier,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Armand Dutertre,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actor,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Armand Dutertre,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Renée Carl,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Renée Carl,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Fabienne Fabrèges,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Fabienne Fabrèges,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Jane Faber,6.9,1369,Fantômas III: Le Mort Qui Tue,FR
+tt0003165,actress,movie,Fantômas: The Dead Man Who Killed,0,1913,90.0,"Crime,Drama,Mystery",Jane Faber,6.9,1369,Fantômas III - Le mort qui tue,FR
+tt0003419,actor,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",Paul Wegener,6.4,2490,L'étudiant de Prague,FR
+tt0003419,actress,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",Grete Berger,6.4,2490,L'étudiant de Prague,FR
+tt0003419,actress,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",Lyda Salmonova,6.4,2490,L'étudiant de Prague,FR
+tt0003419,actor,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",John Gottowt,6.4,2490,L'étudiant de Prague,FR
+tt0003419,actor,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",Lothar Körner,6.4,2490,L'étudiant de Prague,FR
+tt0003419,actor,movie,The Student of Prague,0,1913,85.0,"Drama,Fantasy,Horror",Fritz Weidemann,6.4,2490,L'étudiant de Prague,FR
+tt0003489,actress,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Fernanda Negri Pouget,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actress,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Eugenia Tettoni Fior,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Ubaldo Stefani,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Antonio Grisanti,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Cesare Gani Carini,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Vitale Di Stefano,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actress,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Maria Brioschi,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Carlo Campogalliani,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actress,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Ersilia Scalpellini,6.1,632,Les derniers jours de Pompei,FR
+tt0003489,actor,movie,The Last Days of Pompeii,0,1913,88.0,"Adventure,Drama",Ercole Vaser,6.1,632,Les derniers jours de Pompei,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Henry B. Walthall,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Spottiswoode Aitken,6.4,1480,La conscience vengeresse,FR
+tt0003643,actress,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Blanche Sweet,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",George Siegmann,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Ralph Lewis,6.4,1480,La conscience vengeresse,FR
+tt0003643,actress,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Mae Marsh,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Robert Harron,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",George Beranger,6.4,1480,La conscience vengeresse,FR
+tt0003643,actress,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Josephine Crowell,6.4,1480,La conscience vengeresse,FR
+tt0003643,actor,movie,The Avenging Conscience: or 'Thou Shalt Not Kill',0,1914,78.0,"Crime,Drama,Horror",Walter Long,6.4,1480,La conscience vengeresse,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,William S. Hart,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,J. Frank Burke,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actress,movie,The Bargain,0,1914,70.0,Western,Clara Williams,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,J. Barney Sherry,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Joseph J. Dowling,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Charles K. French,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Fritz the Horse,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Roy Laidlaw,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Herschel Mayall,6.5,262,Le serment de Rio Jim,FR
+tt0003657,actor,movie,The Bargain,0,1914,70.0,Western,Charles Swickard,6.5,262,Le serment de Rio Jim,FR
+tt0003740,actress,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Italia Almirante-Manzini,7.1,4049,Cabiria,FR
+tt0003740,actress,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Lidia Quaranta,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Bartolomeo Pagano,7.1,4049,Cabiria,FR
+tt0003740,actress,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Carolina Catena,7.1,4049,Cabiria,FR
+tt0003740,actress,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Carolina Catena,7.1,4049,Cabiria,FR
+tt0003740,actress,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Teresa Marangoni,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Dante Testa,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Umberto Mozzato,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Raffaele di Napoli,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Emilio Vardannes,7.1,4049,Cabiria,FR
+tt0003740,actor,movie,Cabiria,0,1914,148.0,"Adventure,Drama,History",Edoardo Davesnes,7.1,4049,Cabiria,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Léonce Perret,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Louis Leubas,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Maurice Lagrenée,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Émile Keppens,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Marc Gérard,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Henri Duval,7.2,469,L'Enfant de Paris,FR
+tt0003883,actress,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Marie Dorly,7.2,469,L'Enfant de Paris,FR
+tt0003883,actress,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Suzanne Le Bret,7.2,469,L'Enfant de Paris,FR
+tt0003883,actress,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",Jeanne Marie-Laurent,7.2,469,L'Enfant de Paris,FR
+tt0003883,actor,movie,L'enfant de Paris,0,1913,124.0,"Crime,Drama",René Navarre,7.2,469,L'Enfant de Paris,FR
+tt0003897,actress,movie,The Exploits of Elaine,0,1914,220.0,Action,Pearl White,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Arnold Daly,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Creighton Hale,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Raymond Owens,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Sheldon Lewis,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Sheldon Lewis,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Edwin Arden,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Leroy Baker,6.2,106,Les Mystères de New York,FR
+tt0003897,actress,movie,The Exploits of Elaine,0,1914,220.0,Action,Bessie Wharton,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Riley Hatch,6.2,106,Les Mystères de New York,FR
+tt0003897,actor,movie,The Exploits of Elaine,0,1914,220.0,Action,Robin H. Townley,6.2,106,Les Mystères de New York,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",René Navarre,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Georges Melchior,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Georges Melchior,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Laurent Morléas,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Laurent Morléas,6.8,1456,Le Policier apache,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Renée Carl,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Renée Carl,6.8,1456,Le Policier apache,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Jane Faber,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Jane Faber,6.8,1456,Le Policier apache,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Yvette Andréyor,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actress,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Yvette Andréyor,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Edmund Breon,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Edmund Breon,6.8,1456,Le Policier apache,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Naudier,6.8,1456,Fantômas IV: Fantômas contre Fantômas,FR
+tt0003930,actor,movie,Fantomas: The Mysterious Finger Print,0,1914,59.0,"Crime,Drama",Naudier,6.8,1456,Le Policier apache,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",René Navarre,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",René Navarre,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Edmund Breon,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Georges Melchior,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Mesnery,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Laurent Morléas,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actor,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Jean-François Martial,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actress,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Germaine Pelisse,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003952,actress,movie,Fantômas: The False Magistrate,0,1914,70.0,"Crime,Drama",Suzanne Le Bret,6.7,1227,Fantômas V: Le Faux Magistrat,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Blanche Derval,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Blanche Derval,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Blanche Derval,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Henri Goidsen,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Henri Goidsen,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Harzé,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Blanche Montel,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Blanche Montel,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Germaine Kaisen,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Fernand Gravey,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Fernand Gravey,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Richard,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Paule Bréval,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Paule Bréval,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Paule Bréval,6.1,34,La tulipe d'or,FR
+tt0003960,actor,movie,Loyalty,0,1914,68.0,\N,Max Péral,6.1,34,La tulipe d'or,FR
+tt0003960,actress,movie,Loyalty,0,1914,68.0,\N,Flore Aldile,6.1,34,La tulipe d'or,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Paul Wegener,6.7,1270,Le golem,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Henrik Galeen,6.7,1270,Le golem,FR
+tt0004026,actress,movie,The Golem,0,1914,60.0,Horror,Lyda Salmonova,6.7,1270,Le golem,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Rudolf Blümner,6.7,1270,Le golem,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Robert A. Dietrich,6.7,1270,Le golem,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Carl Ebert,6.7,1270,Le golem,FR
+tt0004026,actor,movie,The Golem,0,1914,60.0,Horror,Jakob Tiedtke,6.7,1270,Le golem,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Stanley Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Sarah Constance Smith Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Sarah Constance Smith Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Mrs. George Walkus,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Mrs. George Walkus,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Paddy 'Malid,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Balutsa,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Balutsa,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Kwagwanu,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Francine Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Francine Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actress,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Francine Hunt,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Bob Wilson,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Awidi,5.8,553,In the Land of the Head Hunters,FR
+tt0004150,actor,movie,In the Land of the Head Hunters,0,1914,65.0,"Drama,History",Alfred Charlie,5.8,553,In the Land of the Head Hunters,FR
+tt0004181,actress,movie,Judith of Bethulia,0,1914,61.0,Drama,Blanche Sweet,6.2,1471,Judith de Béthulie,FR
+tt0004181,actor,movie,Judith of Bethulia,0,1914,61.0,Drama,Henry B. Walthall,6.2,1471,Judith de Béthulie,FR
+tt0004181,actress,movie,Judith of Bethulia,0,1914,61.0,Drama,Mae Marsh,6.2,1471,Judith de Béthulie,FR
+tt0004181,actor,movie,Judith of Bethulia,0,1914,61.0,Drama,Robert Harron,6.2,1471,Judith de Béthulie,FR
