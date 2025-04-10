@@ -11,6 +11,7 @@ Objectif :
 Outils utilisés : Python, Streamlit, Power BI, Machine Learning, Trello
 
 Jeu de données : IMDb Dataset et TMDB Dataset.
-    J’ai créé un nouveau jeu de données appelé Données_Propres après avoir traité et fusionné ces deux bases de données.
+
+    J’ai créé un nouveau jeu de données appelé movie_stats.csv.gz après avoir traité et fusionné ces deux bases de données.
 
 
