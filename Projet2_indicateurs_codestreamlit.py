@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+import plotly.express as px.
 ####
 
 movie_stats = pd.read_csv('movie_stats.csv.gz')
