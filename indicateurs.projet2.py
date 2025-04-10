@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 ####
-#""
+
 movie_stats = pd.read_csv('movie_stats.csv.gz')
 movie_stats['Décennie'] = (movie_stats['startYear'] // 10) * 10
 df_films = movie_stats.loc[(movie_stats['startYear'] < 2025) & (movie_stats['revenue'] > 0) & (movie_stats['titleType'] == "movie")& (movie_stats['runtimeMinutes'] > 0)]
