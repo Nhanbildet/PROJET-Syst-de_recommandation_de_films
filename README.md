@@ -8,6 +8,9 @@ Objectif :
     
     Réaliser une démonstration interactive des recommandations, en se basant sur les films proposés par le client.
     
-Outils utilisés : Python, Streamlit, Power BI, Machine Learning
+Outils utilisés : Python, Streamlit, Power BI, Machine Learning, Trello
 
-Dataset: IMDb Dataset et TMDB Dataset  
+Jeu de données : IMDb Dataset et TMDB Dataset.
+    J’ai créé un nouveau jeu de données appelé Données_Propres après avoir traité et fusionné ces deux bases de données.
+
+
