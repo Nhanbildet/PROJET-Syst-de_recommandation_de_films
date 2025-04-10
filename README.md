@@ -8,10 +8,13 @@ Objectif :
     
     Réaliser une démonstration interactive des recommandations, en se basant sur les films proposés par le client.
     
-Outils utilisés : Python, Streamlit, Power BI, Machine Learning, Trello
+Outils utilisés : Python, Streamlit, Power BI, Machine Learning, Trello, dataviz
 
 Jeu de données : IMDb Dataset et TMDB Dataset.
 
     J’ai créé un nouveau jeu de données appelé movie_stats.csv.gz après avoir traité et fusionné ces deux bases de données.
+    
+Lien pour consulter tous les indicateurs liés aux films sur 100 ans (partie du projet) :
+👉 https://indicateurs-cinema.streamlit.app/
 
 
